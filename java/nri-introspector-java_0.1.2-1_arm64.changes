@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Fri, 13 Jan 2023 23:42:14 +0000
+Date: Fri, 20 Jan 2023 21:26:39 +0000
 Source: nri-introspector-java
 Binary: nri-introspector-java
 Architecture: arm64
@@ -12,8 +12,8 @@ Description:
 Changes:
  nri-introspector-java (0.1.2-1) ; urgency=low
 Checksums-Sha1:
- 817a660a6e82b94bd3ecdb6a3b91b44a6bef4504 58110386 nri-introspector-java_0.1.2-1_arm64.deb
+ 36e059a71ffc08e2d249fdb9a1a019be13b3f986 55021498 nri-introspector-java_0.1.2-1_arm64.deb
 Checksums-Sha256:
- 33c9086308f434838189d266cbe4878bd92fe41390ccbdb526a83010a4508781 58110386 nri-introspector-java_0.1.2-1_arm64.deb
+ b530a061fb7c05850f938044ed1be1078cadc277c6ec0f4b423493cd5889460d 55021498 nri-introspector-java_0.1.2-1_arm64.deb
 Files:
- 58a24e0c9bcb9f18e66d2f9a858b1c5e 58110386 Application/System optional nri-introspector-java_0.1.2-1_arm64.deb
+ fd1347e0b864bcd1c6396bc0a6ea07e8 55021498 Application/System optional nri-introspector-java_0.1.2-1_arm64.deb
